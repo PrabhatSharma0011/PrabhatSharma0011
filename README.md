@@ -1,31 +1,31 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## About Me
 
-###
+My name is **Prabhat Sharma**, and I'm from 🇮🇳 India.  
+I'm currently an aspiring Computer Science undergrad seeking an internship as a **Data Analyst**. I'm eager to apply theoretical knowledge in a practical setting, leverage my analytical skills, and contribute to meaningful data-driven insights.
 
-<h6 align="left">My name is Prabhat Sharma , I am from India</h6>
+---
 
-###
+## Skills & Tools
 
-<p align="left">Currently an aspiring Computer Science Undergrad seeking an internship as a Data Analyst to apply theoretical knowledge in a practical setting, leverage analytical skills, and contribute to meaningful data-driven insights.</p>
+<table>
+  <tr>
+    <td>
+      
+- 💻 **Programming:** Python *(NumPy, Pandas)*  
+- 🔍 **EDA:** Exploratory Data Analysis  
+- 🧹 **Data Processing:** Data Cleaning & Preprocessing  
+- 📊 **Statistics:** Descriptive & Inferential  
+- 📈 **Data Visualization:** Power BI, Tableau, MS Excel  
+- 🗄️ **Databases:** SQL *(Structured Query Language)*  
 
-###
+    </td>
+    <td>
+      <img src="https://www.edx.org/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fmedia%2Fprograms%2Fcard_images%2Fe78d61bc-aa9d-417f-b244-fed28f5737b6-42e63d68ef81.jpeg&w=640&q=75" width="350" alt="Icon">
+    </td>
+  </tr>
+</table>
 
-<h2 align="left">Skills/Tools</h2>
-
-###
-
-<p align="left"># Python (Numpy, Pandas)<br># EDA (Exploratory Data Analysis)<br># Data Cleaning/Data Preprocessing<br># Statistics (Descriptive, Inferential)<br># Data Visualization(PowerBI, Tableau, MS Excel)<br># SQL(Structured Query Language)</p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/prabhatsharma26" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
