@@ -11,21 +11,24 @@ I'm currently an aspiring Computer Science undergrad seeking an internship as a 
 
 ## Skills & Tools
 
-<table>
-  <tr>
-    <td>
-      
-- 💻 **Programming:** Python *(NumPy, Pandas)*  
-- 🔍 **EDA:** Exploratory Data Analysis  
-- 🧹 **Data Processing:** Data Cleaning & Preprocessing  
-- 📊 **Statistics:** Descriptive & Inferential  
-- 📈 **Data Visualization:** Power BI, Tableau, MS Excel  
-- 🗄️ **Databases:** SQL *(Structured Query Language)*  
+### Programming
+- 💻 Python *(NumPy, Pandas)*  
 
-    </td>
-    <td>
-      <img src="https://www.edx.org/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fmedia%2Fprograms%2Fcard_images%2Fe78d61bc-aa9d-417f-b244-fed28f5737b6-42e63d68ef81.jpeg&w=640&q=75" width="350" alt="Icon">
-    </td>
-  </tr>
-</table>
+### EDA
+- 🔍 Exploratory Data Analysis  
 
+### Data Processing
+- 🧹 Data Cleaning & Preprocessing  
+
+### Statistics
+- 📊 Descriptive & Inferential  
+
+### Data Visualization
+- 📈 Power BI, Tableau, MS Excel  
+
+### Databases
+- 🗄️ SQL *(Structured Query Language)*  
+
+---
+
+<img src="https://www.edx.org/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fmedia%2Fprograms%2Fcard_images%2Fe78d61bc-aa9d-417f-b244-fed28f5737b6-42e63d68ef81.jpeg&w=640&q=75" alt="Icon" style="max-width: 100%; height: auto;">
