@@ -4,7 +4,7 @@
 
 ## About Me
 
-My name is **Prabhat Sharma**, and I'm from 🇮🇳 India.  
+My name is **Prabhat Sharma**, and I'm from India 🇮🇳.  
 I'm currently an aspiring Computer Science undergrad seeking an internship as a **Data Analyst**. I'm eager to apply theoretical knowledge in a practical setting, leverage my analytical skills, and contribute to meaningful data-driven insights.
 
 ---
