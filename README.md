@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**PrabhatSharma0011/PrabhatSharma0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h6 align="left">My name is Prabhat Sharma , I am from India</h6>
+
+###
+
+<p align="left">Currently an aspiring Computer Science Undergrad seeking an internship as a Data Analyst to apply theoretical knowledge in a practical setting, leverage analytical skills, and contribute to meaningful data-driven insights.</p>
+
+###
+
+<h2 align="left">Skills/Tools</h2>
+
+###
+
+<p align="left"># Python (Numpy, Pandas)<br># EDA (Exploratory Data Analysis)<br># Data Cleaning/Data Preprocessing<br># Statistics (Descriptive, Inferential)<br># Data Visualization(PowerBI, Tableau, MS Excel)<br># SQL(Structured Query Language)</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/prabhatsharma26" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
