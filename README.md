@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Prabhat Sharma</h1>
-<h3 align="center">🎓 Final‑Year Computer Science | 📊 Aspiring Data Analyst | 💼 Actively Seeking Data Analyst Internships</h3>
+<h3 align="center">🎓 Final‑Year Computer Science Undergrad | 📊 Aspiring Data Analyst | 💼 Actively Seeking Data Analyst Internships</h3>
 
 ---
 
