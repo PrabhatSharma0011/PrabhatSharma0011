@@ -1,69 +1,65 @@
-<h1 align="center">Hi 👋, I'm Prabhat Sharma</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Final Year Computer Science Undergraduate</h3>
+<h1 align="center">👋 Hi, I’m Prabhat Sharma</h1>
+<h3 align="center">🎓 Final‑Year Computer Science | 📊 Aspiring Data Analyst | 💼 Actively Seeking Data Analyst Internships</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhatsharma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PrabhatSharmaData&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+### 🧠 About Me  
 
-🎓 I’m a final-year **Computer Science undergraduate** from Invertis University, Bareilly, India.  
-📊 Passionate about uncovering data-driven insights to solve real-world problems.  
-🛠 Currently learning and applying **Data Analytics** skills through hands-on projects.  
-🎯 **Currently actively looking for Data Analyst internships.**  
-🎯 Goal: To become a **Data Analyst** and work on impactful business challenges.  
-
----
-
-### 🧠 Skills & Tools
-
-- **Languages & Libraries**:  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0066A6?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-- **Visualization**:  
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-- **Databases & Tools**:  
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎓 Final‑year **Computer Science Undergraduate** at Invertis University, Bareilly, India  
+- 📊 Passionate about **Data Analytics** and turning raw data into meaningful insights  
+- 💼 **Actively seeking Data Analyst Internship** opportunities to apply my skills in a real-world setting  
+- 🧪 Learning and implementing data analytics techniques via hands-on projects  
+- 🎯 Career goal: To work as a **Data Analyst** and help businesses make informed decisions  
 
 ---
 
-### 🛠️ Projects
+### 💻 Tech Stack & Tools  
 
-Here are a few of my featured projects:
-
-- 📦 [**Blinkit Analysis Dashboard**](#) - A comprehensive Power BI analysis of online delivery patterns  
-- 📈 [**Sales Insights Project**](#) - Extracting key trends and business opportunities from raw data  
-- 🧾 [**Credit Card Customer Report**](#) - Behavioral segmentation of customers based on credit usage  
-- 👩‍💼 [**HR Analytics**](#) - Analyzing employee attrition and satisfaction using Python & Excel  
-
-> 🔗 *More projects available in my repositories!*
+| Category              | Technologies & Tools |
+|-----------------------|----------------------|
+| **Programming**       | Python, SQL         |
+| **Libraries**         | Pandas, NumPy, Matplotlib |
+| **Visualization**     | Power BI, Tableau, MS Excel |
+| **Database & Tools**  | MySQL, PostgreSQL, Git, VS Code |
 
 ---
 
-### 📚 Currently Learning
+### 🚀 Featured Projects  
+
+- 📦 **Blinkit Analysis Dashboard** – Power BI dashboard analyzing delivery KPIs from 8,000+ rows of data  
+- 📈 **Sales Insights Project** – Sales data analysis to extract trends and revenue insights  
+- 🧾 **Credit Card Customer Report** – Customer segmentation based on credit behavior using Python  
+- 👩‍💼 **HR Analytics** – Attrition analysis using Excel and Python with visual storytelling  
+
+🔗 *Explore more projects in my [GitHub Repositories](https://github.com/PrabhatSharmaData?tab=repositories)*
+
+---
+
+### 📚 Currently Learning  
 
 - 📘 Advanced Excel & Dashboarding  
-- 📘 SQL for Data Analytics  
-- 📘 Python for Data Analysis  
-- 📘 Business Problem Solving with Data  
+- 📘 Python for Data Science  
+- 📘 SQL for Business Intelligence  
+- 📘 Business Data Storytelling  
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhat-sharma-data/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabhatsharmacs2022@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrabhatSharmaData)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrabhatSharmaData&show_icons=true&theme=tokyonight" alt="Prabhat's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhatSharmaData&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
